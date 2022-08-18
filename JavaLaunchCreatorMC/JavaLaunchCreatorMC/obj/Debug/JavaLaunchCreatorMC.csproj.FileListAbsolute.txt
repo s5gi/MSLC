@@ -1,0 +1,11 @@
+D:\JavaLaunchCreatorMC\JavaLaunchCreatorMC\bin\Debug\JavaLaunchCreatorMC.exe.config
+D:\JavaLaunchCreatorMC\JavaLaunchCreatorMC\bin\Debug\JavaLaunchCreatorMC.exe
+D:\JavaLaunchCreatorMC\JavaLaunchCreatorMC\bin\Debug\JavaLaunchCreatorMC.pdb
+D:\JavaLaunchCreatorMC\JavaLaunchCreatorMC\obj\Debug\JavaLaunchCreatorMC.csproj.AssemblyReference.cache
+D:\JavaLaunchCreatorMC\JavaLaunchCreatorMC\obj\Debug\JavaLaunchCreatorMC.csproj.SuggestedBindingRedirects.cache
+D:\JavaLaunchCreatorMC\JavaLaunchCreatorMC\obj\Debug\JavaLaunchCreatorMC.Form1.resources
+D:\JavaLaunchCreatorMC\JavaLaunchCreatorMC\obj\Debug\JavaLaunchCreatorMC.Properties.Resources.resources
+D:\JavaLaunchCreatorMC\JavaLaunchCreatorMC\obj\Debug\JavaLaunchCreatorMC.csproj.GenerateResource.cache
+D:\JavaLaunchCreatorMC\JavaLaunchCreatorMC\obj\Debug\JavaLaunchCreatorMC.csproj.CoreCompileInputs.cache
+D:\JavaLaunchCreatorMC\JavaLaunchCreatorMC\obj\Debug\JavaLaunchCreatorMC.exe
+D:\JavaLaunchCreatorMC\JavaLaunchCreatorMC\obj\Debug\JavaLaunchCreatorMC.pdb
