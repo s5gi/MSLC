@@ -35,22 +35,14 @@ namespace JavaLaunchCreatorMC
             windowName = windowname.Text;
             updateLabel5();
         }
-
-
-
-
         public void updateLabel5()
         {
             label5.Text = windowName;
         }
-
         public void updateGUILabel()
         {
             guilabel.Text = "GUI: " + gui;
         }
-
-
-
         public void updateServerFileText()
         {
             serverFile.Text = filePath;
@@ -118,7 +110,7 @@ namespace JavaLaunchCreatorMC
             stringBuilder.Append("@echo off\n");
             stringBuilder.Append(drive.ToString().Replace("\\", "") + "\n");
             stringBuilder.Append("title " + windowName + "\n");
-            stringBuilder.Append("java -Xmx" + ram + " -Xms" + ram + " -jar " + filePath);
+            stringBuilder.Append("java -Xmx" + ram + " -Xms" + ram + " -jar \"" + filePath + "\"");
             if (!gui)
             {
                 stringBuilder.Append(" nogui");
