@@ -1,0 +1,11 @@
+C:\Users\5gi\Documents\GitHub\MSLC\JavaLaunchCreatorMC\JavaLaunchCreatorMC\bin\Release\JavaLaunchCreatorMC.exe.config
+C:\Users\5gi\Documents\GitHub\MSLC\JavaLaunchCreatorMC\JavaLaunchCreatorMC\bin\Release\JavaLaunchCreatorMC.exe
+C:\Users\5gi\Documents\GitHub\MSLC\JavaLaunchCreatorMC\JavaLaunchCreatorMC\bin\Release\JavaLaunchCreatorMC.pdb
+C:\Users\5gi\Documents\GitHub\MSLC\JavaLaunchCreatorMC\JavaLaunchCreatorMC\obj\Release\JavaLaunchCreatorMC.csproj.AssemblyReference.cache
+C:\Users\5gi\Documents\GitHub\MSLC\JavaLaunchCreatorMC\JavaLaunchCreatorMC\obj\Release\JavaLaunchCreatorMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\5gi\Documents\GitHub\MSLC\JavaLaunchCreatorMC\JavaLaunchCreatorMC\obj\Release\JavaLaunchCreatorMC.Form1.resources
+C:\Users\5gi\Documents\GitHub\MSLC\JavaLaunchCreatorMC\JavaLaunchCreatorMC\obj\Release\JavaLaunchCreatorMC.Properties.Resources.resources
+C:\Users\5gi\Documents\GitHub\MSLC\JavaLaunchCreatorMC\JavaLaunchCreatorMC\obj\Release\JavaLaunchCreatorMC.csproj.GenerateResource.cache
+C:\Users\5gi\Documents\GitHub\MSLC\JavaLaunchCreatorMC\JavaLaunchCreatorMC\obj\Release\JavaLaunchCreatorMC.csproj.CoreCompileInputs.cache
+C:\Users\5gi\Documents\GitHub\MSLC\JavaLaunchCreatorMC\JavaLaunchCreatorMC\obj\Release\JavaLaunchCreatorMC.exe
+C:\Users\5gi\Documents\GitHub\MSLC\JavaLaunchCreatorMC\JavaLaunchCreatorMC\obj\Release\JavaLaunchCreatorMC.pdb
